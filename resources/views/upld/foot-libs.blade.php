@@ -1,11 +1,5 @@
 <!-- jQuery -->
-<script src="{{ asset('lib/jquery/321/jquery.min.js') }}"></script>
-<!-- Bootstrap-->
-<link rel="stylesheet" href="{{ URL::asset('lib/bootstrap/4b2/css/bootstrap.min.css') }}" />
-<script src="{{ asset('lib/popper.js/umd/popper.min.js') }}"></script>
-<!-- <script src="{{ asset('lib/tooltip.js/tooltip.min.js') }}"></script> -->
-<script src="{{ asset('lib/bootstrap/4b2/js/bootstrap.min.js') }}"></script>
-
+<script src="{{ asset('js/amati.js') }}"></script>
 
 <!-- подключаем универсальный скрипт, который использует API propper.js для упрощенного использование подсказок -->
 <!--  -->

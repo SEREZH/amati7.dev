@@ -16,5 +16,7 @@
 <!--     @ include('chips.preloader') -->
     @include('parts.menu-login')
     @yield('content')
+
+    @include('upld.foot-libs')
 </body>
 </html>
