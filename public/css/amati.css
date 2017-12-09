@@ -31,24 +31,6 @@ html, body {
 .title {
   font-size: 84px; }
 
-.links > a {
-  /* font-family: 'Roboto', sans-serif; */
-  font-size: 12px;
-  font-weight: 100;
-  color: #636b6f;
-  padding: 0 25px;
-  letter-spacing: .1rem;
-  text-decoration: none;
-  text-transform: uppercase;
-  -webkit-transition: all .75s ease-in-out;
-  -moz-transition: all .75s ease-in-out;
-  -ms-transition: all .75s ease-in-out;
-  -o-transition: all .75s ease-in-out;
-  transition: all .75s ease-in-out; }
-  .links > a:hover {
-    font-weight: 300;
-    color: red; }
-
 .m-b-md {
   margin-bottom: 30px; }
 
@@ -315,6 +297,24 @@ p {
   .navbar .dropdown-menu {
     border: 1px solid rgba(0, 0, 0, 0.15);
     background-color: #fff; } }
+.ez-menu-mega-login-links > a {
+  /* font-family: 'Roboto', sans-serif; */
+  font-size: 12px;
+  font-weight: 500;
+  color: white;
+  padding: 0 25px;
+  letter-spacing: .1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  -webkit-transition: all .75s ease-in-out;
+  -moz-transition: all .75s ease-in-out;
+  -ms-transition: all .75s ease-in-out;
+  -o-transition: all .75s ease-in-out;
+  transition: all .75s ease-in-out; }
+  .ez-menu-mega-login-links > a:hover {
+    /* font-weight: 700; */
+    color: red; }
+
 /* 
 @import "site-addons";
 @import "menu";

@@ -14,7 +14,11 @@
 </head>
 <body>
 <!--     @ include('chips.preloader') -->
-    @include('parts.menu-login')
+<!--     @ include('parts.menu-login') -->
+    
+    @include('chips.preloader')
+    @include('parts.menu-mega')
+
     @yield('content')
 
     @include('upld.foot-libs')

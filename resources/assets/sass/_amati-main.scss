@@ -35,27 +35,6 @@ html, body {
     font-size: 84px;
 }
 
-.links > a {
-    /* font-family: 'Roboto', sans-serif; */
-    font-size: 12px;
-    font-weight: 100;
-    color: #636b6f;
-    padding: 0 25px;
-    letter-spacing: .1rem;
-    text-decoration: none;
-    text-transform: uppercase;
-    
-    -webkit-transition: all .75s ease-in-out;
-       -moz-transition: all .75s ease-in-out;
-        -ms-transition: all .75s ease-in-out;
-         -o-transition: all .75s ease-in-out;
-            transition: all .75s ease-in-out;
-    
-    &:hover {
-        font-weight: 300;
-        color: rgba(255,0,0,1)
-    }
-}
 
 .m-b-md {
     margin-bottom: 30px;

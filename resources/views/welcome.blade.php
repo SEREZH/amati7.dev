@@ -1,7 +1,5 @@
 @extends('layouts.amati')
 
-@include('chips.preloader')
-@include('parts.menu-mega')
 
 @section('content')
         <div class="flex-center position-ref full-height">

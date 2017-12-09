@@ -46,3 +46,25 @@
 
 }
 
+
+.ez-menu-mega-login-links > a {
+    /* font-family: 'Roboto', sans-serif; */
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    padding: 0 25px;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+    -webkit-transition: all .75s ease-in-out;
+       -moz-transition: all .75s ease-in-out;
+        -ms-transition: all .75s ease-in-out;
+         -o-transition: all .75s ease-in-out;
+            transition: all .75s ease-in-out;
+    
+    &:hover {
+        /* font-weight: 700; */
+        color: rgba(255,0,0,1)
+    }
+}
