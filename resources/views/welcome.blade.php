@@ -29,4 +29,29 @@
             </div>
         </div>
 
+<div class="container">
+  <div class="row">
+   
+    <div class="col">
+      One of three columns
+    </div>
+    
+    <div class="col">
+        <div class="md-form">
+            <i class="fa fa-envelope prefix"></i>
+            <input type="text" id="form2" class="form-control">
+            <label for="form2">Example label</label>
+        </div>
+    </div>
+    
+    <div class="col">
+      One of three columns
+    </div>
+    
+  </div>
+</div>
+
+
+
+
 @endsection

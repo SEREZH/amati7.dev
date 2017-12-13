@@ -1,4 +1,6 @@
 <!-- FONTS Begin -->
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- <link href="https://fonts.googleapis.com/css?family=Andika|Bad+Script|Forum|PT+Sans|PT+Sans+Caption|Poiret+One|Scada" rel="stylesheet"> -->
 <!-- 

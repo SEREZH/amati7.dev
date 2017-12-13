@@ -1,3 +1,4 @@
+
 <!-- jQuery -->
 <script src="{{ asset('lib/jquery/321/jquery.min.js') }}"></script>
 <!-- Bootstrap-->
@@ -5,6 +6,28 @@
 <script src="{{ asset('lib/popper.js/umd/popper.min.js') }}"></script>
 <!-- <script src="{{ asset('lib/tooltip.js/tooltip.min.js') }}"></script> -->
 <script src="{{ asset('lib/bootstrap/4b2/js/bootstrap.min.js') }}"></script>
+<!-- Material Design Bootstrap -->
+<!-- <script type="text/javascript" src="lib/mdb/js/jquery-3.2.1.min.js"></script> -->
+<!-- <script type="text/javascript" src="lib/mdb/js/popper.min.js"></script> -->
+<!-- <script src="{{ asset('lib/popper.js/umd/popper.min.js') }}"></script> -->
+<!-- <script type="text/javascript" src="lib/mdb/js/bootstrap.min.js"></script> -->
+
+<link href="{{ asset('lib/tether/dist/css/tether.min.css') }}" rel="stylesheet">
+<link href="{{ asset('lib/mdb/css/mdb.min.css') }}" rel="stylesheet">
+
+
+<!-- <script src="{{ asset('lib/mdb/js/mdb.js') }}"></script> -->
+
+
+<!-- JQuery -->
+<!-- <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+ --><!-- Bootstrap tooltips -->
+<!-- <script type="text/javascript" src="js/popper.min.js"></script> -->
+<!-- Bootstrap core JavaScript -->
+<!-- <script type="text/javascript" src="js/bootstrap.min.js"></script> -->
+<!-- MDB core JavaScript -->
+<!-- <script type="text/javascript" src="lib/mdb/js/mdb.min.js"></script> -->
+
 
 
 <!-- подключаем универсальный скрипт, который использует API propper.js для упрощенного использование подсказок -->

@@ -1,5 +1,7 @@
 <!-- jQuery -->
 <script src="{{ asset('js/amati.js') }}"></script>
+<script src="{{ asset('lib/tether/dist/js/tether.min.js') }}"></script>
+<script src="{{ asset('lib/mdb/js/mdb.js') }}"></script>
 
 <!-- подключаем универсальный скрипт, который использует API propper.js для упрощенного использование подсказок -->
 <!--  -->
